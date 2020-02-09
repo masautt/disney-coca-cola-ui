@@ -1,0 +1,2 @@
+# disney-coca-cola-ui
+Honestly I want you to build a react app that makes it easier for you to access programming information. Like a better flashcards application. Where its so much easier to use, think like the Coca Cola machines at disneyland. Like yes they're taking a bit longer to use than the traditional ones, but honestly if they placed the 100 flavors the new machines have in an old machine, then thats probably gonna take a lot longer 
